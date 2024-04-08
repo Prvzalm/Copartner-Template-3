@@ -34,7 +34,7 @@ const HomePage = ({ token }) => {
               <span className="text-[12px] flex justify-end leading-[12px] font-medium text-white mr-3">
                 {expert.totalFollowers}
               </span>
-              <div className="w-[280px] h-[140px] md:w-[256px] md:h-[146px]">
+              <div className="w-[280px] h-[140px] mx-auto md:w-[256px] md:h-[146px]">
                 <img
                   src={expert.userImg}
                   alt="User"
