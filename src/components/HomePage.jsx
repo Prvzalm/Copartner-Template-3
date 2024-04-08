@@ -21,7 +21,7 @@ const HomePage = ({ token }) => {
           return (
             <div
               key={expert.id}
-              className="md:h-[285px] h-[350px] gap-2 md:px-8 rounded-[11px] py-2 px-8 relative flex flex-col bg-[#18181B80] transition duration-150 ease-in-out bg-image-rays"
+              className="md:h-[285px] h-[360px] gap-2 md:px-8 rounded-[11px] py-2 px-8 relative flex flex-col bg-[#18181B80] transition duration-150 ease-in-out bg-image-rays"
             >
               <div className="flex mt-1 justify-between">
                 <span className="text-[12px] leading-[12px] text-[#C6CDD5] opacity-50">
@@ -83,7 +83,7 @@ const HomePage = ({ token }) => {
           return (
             <div
               key={expert.id}
-              className="md:h-[285px] h-[350px] gap-2 md:px-8 rounded-[11px] py-2 px-8 relative flex flex-col bg-[#18181B] opacity-50 transition duration-150 ease-in-out"
+              className="md:h-[285px] h-[360px] gap-2 md:px-8 rounded-[11px] py-2 px-8 relative flex flex-col bg-[#18181B] opacity-50 transition duration-150 ease-in-out"
             >
               <div className="flex mt-1 justify-between">
                 <span className="text-[12px] leading-[12px] text-[#C6CDD5] opacity-50">
