@@ -50,7 +50,7 @@ const OTP = () => {
                 OTP Verification
               </span>
               <span className="w-[293px] h-[34px] font-[400] text-[14.4px] leading-[17px]">
-                Enter the verification code we just send on your mobile number
+                Enter the verification code we just sent on your mobile number
               </span>
             </div>
 

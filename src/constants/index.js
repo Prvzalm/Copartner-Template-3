@@ -131,7 +131,7 @@ import { userImg, userBck, telegram, arrow, shubham,
       content:
         "Have full control of your business finances on the go using our iOS/Android mobile apps. Because, you know, it’s 2023.",
       telegram: telegram,
-      greet: 'Join Telegram',
+      greet: 'Get Free Calls',
       channelName: '💚 OPTION EMPIRE™ (SEBI REGISTER)💚',
       link: 'https://t.me/+YAdr5_6oQuI4NDI1',
       arrowIcon: arrow,
